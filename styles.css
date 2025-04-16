@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    background-color: blueviolet;
+}
+h1 {
+    color: darkcyan
+}
+p {
+    font-size: 24px;
+}
+img {
+    width: 250px;
+}
+ul, ol {
+    margin-left: 16px;
+}
